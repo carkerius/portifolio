@@ -20,4 +20,10 @@ const projects = [
     repoUrl: "https://github.com/carkerius",
     demoUrl: "",
   },
+  {
+    title: "Projeto 4",
+    description: "Descrição curta do projeto: o problema que resolve e as tecnologias usadas.",
+    repoUrl: "https://github.com/carkerius",
+    demoUrl: "",
+  },
 ];
